@@ -1,0 +1,10 @@
+{
+  "name": "todomvc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Luciano Boteleiro",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.16.0"
+  }
+}
